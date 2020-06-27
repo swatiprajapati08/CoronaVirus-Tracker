@@ -32,7 +32,7 @@ ROADMAP
 
 # Running this Code
 
-`git clone https://github.com/Interestship1-0/COVID-19-dashboard.git`
+`git clone https://github.com/swatiprajapati08/CoronaVirus-Tracker.git`
 
 Open CoronaVirus-Tracker in Intellij (It is recommended to have Java 12 in the system.)
 
